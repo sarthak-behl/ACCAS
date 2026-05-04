@@ -32,11 +32,15 @@ export const Route = createRootRoute({
       { title: "ACCAS — Focus on your startup. We handle your tech." },
       { name: "description", content: "ACCAS is a software agency that takes complete ownership of your startup's technology so you can focus on growth." },
       { name: "author", content: "ACCAS" },
-      { property: "og:title", content: "ACCAS — We handle tech, you build your business." },
-      { property: "og:description", content: "End-to-end software services for startups." },
+      { property: "og:title", content: "ACCAS — Focus on your startup. We handle your tech." },
+      { property: "og:description", content: "ACCAS is a software agency that takes complete ownership of your startup's technology so you can focus on growth." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "ACCAS — Focus on your startup. We handle your tech." },
+      { name: "twitter:description", content: "ACCAS is a software agency that takes complete ownership of your startup's technology so you can focus on growth." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0f13cc82-6b89-4556-b842-732d0620e1e9/id-preview-d7228d82--bfdb9fbc-85fb-48ad-a4f7-2c3ea9aa21e6.lovable.app-1777911267052.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0f13cc82-6b89-4556-b842-732d0620e1e9/id-preview-d7228d82--bfdb9fbc-85fb-48ad-a4f7-2c3ea9aa21e6.lovable.app-1777911267052.png" },
     ],
     links: [
       {
